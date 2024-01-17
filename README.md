@@ -1,4 +1,6 @@
 # Entity Wipe 
+
+Support: https://discord.gg/cfxdev
 ---
 Requirements:
 - [OX_LIB](https://github.com/overextended/ox_lib) or Replace cache.ped with PlayerPedId()

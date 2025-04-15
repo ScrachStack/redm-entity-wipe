@@ -1,6 +1,7 @@
 # Entity Wipe 
 
-Support: https://discord.gg/cfxdev
+[![Discord](https://img.shields.io/badge/Discord-Support-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/tgrU8wgeHx) 
+
 ---
 Requirements:
 - [OX_LIB](https://github.com/overextended/ox_lib) or Replace cache.ped with PlayerPedId()
